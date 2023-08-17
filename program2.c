@@ -1,3 +1,5 @@
+/*PRINT A INTEGER VALUE*/
+
 #include<stdio.h>
 int main()
 {

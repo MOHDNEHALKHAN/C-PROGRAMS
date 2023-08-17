@@ -1,3 +1,5 @@
+/*Simple C Program*/
+
 #include<stdio.h>
 int main()
 {
