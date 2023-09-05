@@ -1,3 +1,14 @@
+# Fork and Clone the Repository
+
+1. Go to the GitHub repository you want to fork.
+2. Click the "Fork" button in the upper right-hand corner of the repository page.
+3. Select your username or organization where you want to fork the repository. This creates a copy of the repository in your GitHub account.
+4. Open your terminal (Command Prompt on Windows, Terminal on macOS and Linux).
+5. Use this in your terminal
+   ```sh
+    git clone https://github.com/<your-username>/<repository-name>.git
+    ```
+
 # Running C Programs in Visual Studio Code
 
 This README provides a step-by-step guide on how to execute and run C programs within Visual Studio Code using the "C-program" repository.
